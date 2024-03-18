@@ -5,7 +5,7 @@
 🔵Bravo: https://github.com/AngieArboleda/hg_1_bravo.git
 <br>
 <br>
-🔵Charlie: https://github.com/arturomendoza/hg_1_charlie.git
+🔵Charlie:
 <br>
 <br>
 🔵Delta: https://github.com/Leanprog-11/hg_1_delta.git
